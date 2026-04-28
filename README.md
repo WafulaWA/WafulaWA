@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Anthony Wafula
+# Hey, I'm Anthony Wafula
 
 Data Engineer focused on scalable data platforms, distributed systems, and cloud infrastructure.
 
@@ -6,7 +6,7 @@ I build production-grade data systems that process billions of records, support 
 
 Currently at Expedia Group, I work on distributed data systems, ETL pipelines, and workflow orchestration, powering customer segmentation and marketing analytics products.
 
-I enjoy solving problems at the intersection of data engineering, infrastructure, and real-world business impact.
+I enjoy solving problems at the intersection of data engineering, infrastructure, and real-world business impact, building systems that reduce manual work, save time, and make complex processes easier
 
 ---
 
