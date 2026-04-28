@@ -1,6 +1,6 @@
 # Hey, I'm Anthony Wafula
 
-Data Engineer focused on scalable data platforms, distributed systems, and cloud infrastructure.
+Data Engineer focused on **scalable data platforms, backend systeams, distributed systems, cloud infrastructure and applied AI**.
 
 I build production-grade data systems that process billions of records, support analytics and ML use cases, and improve platform reliability at scale.
 
