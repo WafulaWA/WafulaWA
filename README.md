@@ -59,4 +59,4 @@ Berea College
 
 ## Connect
 
-LinkedIn: [your link]
+LinkedIn:https://www.linkedin.com/in/anthony-wafula-546348193/
